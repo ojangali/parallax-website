@@ -11,7 +11,7 @@
     "font-awesome": "~4.3.0",
     "firebase": "~2.2.7",
     "angular": "~1.4.1",
-    "angularfire": "~1.1.1",
+    "angularfire": "~1.1.2",
     "jquery": "~2.1.4",
     "bootstrap": "~3.3.5",
     "angular-ui-router": "~0.2.15",
